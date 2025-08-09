@@ -1,0 +1,6 @@
+# open command prompt 
+# run this command 
+set __compact_layer=runasinvoker
+# hit enter
+# then type start and the name of you file
+ex start steam.exe
